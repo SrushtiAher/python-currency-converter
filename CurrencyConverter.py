@@ -1,5 +1,4 @@
 #PythonGeeks-CurrencyConverter
-#GUI Based project
 
 import tkinter as tk
 from tkinter import *
